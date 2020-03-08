@@ -1,5 +1,6 @@
 # Logisitc-Regression
-Classifying a banks customers into profitable and non-profitable for stock trading facility
+Classifying a banks customers into profitable and non-profitable for a stock trading facility
 
 
-**This is on-going work. The repository will be updated as I proceed further** 
+**This is on-going work. The repository will be updated as I proceed further**
+** Playing with branching**
